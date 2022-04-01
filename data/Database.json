@@ -1,0 +1,52 @@
+{
+  "movies": [
+    {
+      "title": "Appu",
+      "genre": "love",
+      "cast": "PowerStart",
+      "id": 1
+    },
+    {
+      "title": "James",
+      "genre": "Action",
+      "cast": "Puneeth Rajkumar",
+      "id": 2
+    },
+    {
+      "title": "Raajakumara",
+      "genre": "Family",
+      "cast": "Appu",
+      "id": 3
+    },
+    {
+      "title": "Yuvarathnaa",
+      "genre": "Action,comedy",
+      "cast": "Power Star Puneeth Rajkumar",
+      "id": 4
+    },
+    {
+      "title": "jackie",
+      "cast": "Appu Bhavana",
+      "genre": "Action love comedy",
+      "id": 5
+    },
+    {
+      "title": "News",
+      "cast": "upendra",
+      "genre": "Suspance Thriller",
+      "id": 6
+    },
+    {
+      "title": "as",
+      "cast": "asd",
+      "genre": "asd",
+      "id": 7
+    },
+    {
+      "title": "Madhu",
+      "cast": "adfdds",
+      "genre": "sadfsdf",
+      "id": 8
+    }
+  ]
+}
